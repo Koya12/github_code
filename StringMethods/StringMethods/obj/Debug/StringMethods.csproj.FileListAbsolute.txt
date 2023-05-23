@@ -1,0 +1,16 @@
+E:\AWT(T145)\StringMethods\StringMethods\bin\Debug\StringMethods.exe.config
+E:\AWT(T145)\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+E:\AWT(T145)\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+E:\AWT(T145)\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+E:\AWT(T145)\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.SuggestedBindingRedirects.cache
+E:\AWT(T145)\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+E:\AWT(T145)\StringMethods\StringMethods\obj\Debug\StringMethods.exe
+E:\AWT(T145)\StringMethods\StringMethods\obj\Debug\StringMethods.pdb
+D:\6th sem\AWT\StringMethods\StringMethods\bin\Debug\StringMethods.exe.config
+D:\6th sem\AWT\StringMethods\StringMethods\bin\Debug\StringMethods.exe
+D:\6th sem\AWT\StringMethods\StringMethods\bin\Debug\StringMethods.pdb
+D:\6th sem\AWT\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.AssemblyReference.cache
+D:\6th sem\AWT\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.SuggestedBindingRedirects.cache
+D:\6th sem\AWT\StringMethods\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+D:\6th sem\AWT\StringMethods\StringMethods\obj\Debug\StringMethods.exe
+D:\6th sem\AWT\StringMethods\StringMethods\obj\Debug\StringMethods.pdb

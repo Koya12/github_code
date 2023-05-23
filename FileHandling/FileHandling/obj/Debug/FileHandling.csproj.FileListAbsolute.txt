@@ -1,0 +1,16 @@
+E:\AWT(T145)\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+E:\AWT(T145)\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+E:\AWT(T145)\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+E:\AWT(T145)\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+E:\AWT(T145)\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+E:\AWT(T145)\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+E:\AWT(T145)\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+E:\AWT(T145)\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
+D:\6th sem\AWT\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+D:\6th sem\AWT\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+D:\6th sem\AWT\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+D:\6th sem\AWT\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+D:\6th sem\AWT\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+D:\6th sem\AWT\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+D:\6th sem\AWT\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+D:\6th sem\AWT\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
